@@ -17,3 +17,11 @@ __bold__
   * Item 3b
 
 inline code I think you should use a `<addr>` element here instead.
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
