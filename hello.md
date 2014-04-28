@@ -1,4 +1,4 @@
-```Javascript
+```javascript
 if (isAwesome) {
 	return true
 }
