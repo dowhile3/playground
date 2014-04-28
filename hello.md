@@ -10,4 +10,4 @@ _italic_
 **bold**
 __bold__
 
-**This is a bold and *bold plus italic * line**
+*this is an italic and **bold plus italic** line*
